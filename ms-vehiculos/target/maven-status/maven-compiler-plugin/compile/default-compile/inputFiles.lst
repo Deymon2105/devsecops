@@ -1,8 +1,0 @@
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/BibliotecaVehiculosApplication.java
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/controller/HomeController.java
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/controller/VehiculoController.java
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/dto/VehiculoRequest.java
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/dto/VehiculoResponse.java
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/model/Vehiculo.java
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/repository/VehiculoRepository.java
-/home/deymon/devsecops/ms-vehiculos/ms-vehiculos/src/main/java/cl/matiivilla/vehiculos/service/VehiculoService.java
