@@ -121,7 +121,8 @@ jobs:
             -Dsonar.projectKey=Deymon2105_devsecops \
             -Dsonar.organization=deymon2105 \
             -Dsonar.host.url=https://sonarcloud.io \
-            -Dsonar.token=${SONAR_TOKEN}
+            -Dsonar.token=${SONAR_TOKEN} \
+            -Dsonar.qualitygate.wait=true
 
   # 4. Empaquetado final de la aplicación
   build:
