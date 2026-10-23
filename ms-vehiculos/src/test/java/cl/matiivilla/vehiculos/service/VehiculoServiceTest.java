@@ -79,8 +79,8 @@ class VehiculoServiceTest {
 
         VehiculoResponse resultado = vehiculoService.findById(1L);
 
-        assertThat(resultado.getId()).isEqualTo(1L);
-        assertThat(resultado.getMarca()).isEqualTo("Toyota");
+        assertThat(resultado.getId()).isEqualTo(100000000000000L);
+        assertThat(resultado.getMarca()).isEqualTo("ToyotaAAAAAAAAAAA");
     }
 
     @Test
